@@ -1,0 +1,18 @@
+body{background-color: aqua;
+display:flex;}
+
+.loghaut{width:20pc;}
+.inscriconnect{
+    margin-top: 15rem;
+    margin-left: 10rem;
+    padding: 1rem;
+}
+
+button{
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    font-size: 2em;
+    border-radius: 1rem;
+}
+
